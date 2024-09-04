@@ -15,8 +15,8 @@ import (
 	"fmt"
 	"io"
 
-	"golang.org/x/exp/trace/internal/event"
-	"golang.org/x/exp/trace/internal/event/go122"
+	"github.com/bluzelle/go-exp/trace/internal/event"
+	"github.com/bluzelle/go-exp/trace/internal/event/go122"
 )
 
 // timestamp is an unprocessed timestamp.

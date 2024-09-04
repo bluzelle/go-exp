@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"golang.org/x/exp/slices"
+	"github.com/bluzelle/go-exp/slices"
 )
 
 const nAttrsInline = 5

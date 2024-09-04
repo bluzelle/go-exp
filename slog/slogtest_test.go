@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/exp/slog"
-	"golang.org/x/exp/slog/slogtest"
+	"github.com/bluzelle/go-exp/slog"
+	"github.com/bluzelle/go-exp/slog/slogtest"
 )
 
 func TestSlogtest(t *testing.T) {

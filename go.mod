@@ -1,4 +1,4 @@
-module golang.org/x/exp
+module github.com/bluzelle/go-exp
 
 go 1.20
 

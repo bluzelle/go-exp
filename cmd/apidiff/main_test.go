@@ -4,8 +4,8 @@ import (
 	"go/types"
 	"testing"
 
+	"github.com/bluzelle/go-exp/apidiff"
 	"github.com/google/go-cmp/cmp"
-	"golang.org/x/exp/apidiff"
 )
 
 func TestIsInternalPackage(t *testing.T) {

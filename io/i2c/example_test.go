@@ -5,7 +5,7 @@
 package i2c_test
 
 import (
-	"golang.org/x/exp/io/i2c"
+	"github.com/bluzelle/go-exp/io/i2c"
 )
 
 func ExampleOpen() {

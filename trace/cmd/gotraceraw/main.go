@@ -15,8 +15,8 @@ import (
 	"log"
 	"os"
 
-	"golang.org/x/exp/trace/internal/raw"
-	"golang.org/x/exp/trace/internal/version"
+	"github.com/bluzelle/go-exp/trace/internal/raw"
+	"github.com/bluzelle/go-exp/trace/internal/version"
 )
 
 func init() {

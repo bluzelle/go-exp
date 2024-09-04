@@ -15,8 +15,8 @@ import (
 	"slices"
 	"strings"
 
-	"golang.org/x/exp/trace/internal/event/go122"
-	"golang.org/x/exp/trace/internal/version"
+	"github.com/bluzelle/go-exp/trace/internal/event/go122"
+	"github.com/bluzelle/go-exp/trace/internal/version"
 )
 
 // Reader reads a byte stream, validates it, and produces trace events.

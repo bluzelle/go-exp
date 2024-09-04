@@ -16,11 +16,11 @@ import (
 	"regexp"
 	"strings"
 
-	"golang.org/x/exp/trace"
-	"golang.org/x/exp/trace/internal/event"
-	"golang.org/x/exp/trace/internal/event/go122"
-	"golang.org/x/exp/trace/internal/raw"
-	"golang.org/x/exp/trace/internal/version"
+	"github.com/bluzelle/go-exp/trace"
+	"github.com/bluzelle/go-exp/trace/internal/event"
+	"github.com/bluzelle/go-exp/trace/internal/event/go122"
+	"github.com/bluzelle/go-exp/trace/internal/raw"
+	"github.com/bluzelle/go-exp/trace/internal/version"
 	"golang.org/x/tools/txtar"
 )
 

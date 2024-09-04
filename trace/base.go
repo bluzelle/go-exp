@@ -15,9 +15,9 @@ import (
 	"fmt"
 	"strings"
 
-	"golang.org/x/exp/trace/internal/event"
-	"golang.org/x/exp/trace/internal/event/go122"
-	"golang.org/x/exp/trace/internal/version"
+	"github.com/bluzelle/go-exp/trace/internal/event"
+	"github.com/bluzelle/go-exp/trace/internal/event/go122"
+	"github.com/bluzelle/go-exp/trace/internal/version"
 )
 
 // maxArgs is the maximum number of arguments for "plain" events,

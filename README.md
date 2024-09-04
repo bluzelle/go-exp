@@ -1,6 +1,6 @@
 # exp
 
-[![PkgGoDev](https://pkg.go.dev/badge/golang.org/x/exp)](https://pkg.go.dev/golang.org/x/exp)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/bluzelle/go-exp)](https://pkg.go.dev/github.com/bluzelle/go-exp)
 
 This subrepository holds experimental and deprecated (in the `old`
 directory) packages.

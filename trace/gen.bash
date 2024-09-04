@@ -3,7 +3,7 @@
 # Use of this source code is governed by a BSD-style
 # license that can be found in the LICENSE file.
 
-# This script copies this directory to golang.org/x/exp/trace.
+# This script copies this directory to github.com/bluzelle/go-exp/trace.
 # Just point it at a Go commit or a local Go checkout.
 
 set -e

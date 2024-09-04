@@ -14,7 +14,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"golang.org/x/exp/ebnf"
+	"github.com/bluzelle/go-exp/ebnf"
 )
 
 var fset = token.NewFileSet()
